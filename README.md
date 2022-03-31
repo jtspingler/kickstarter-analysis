@@ -19,6 +19,9 @@ Based on the data graphed below, it is clear that the best time to launch a camp
 ![This is an image](https://github.com/jtspingler/kickstarter-analysis/blob/54dc854264083a7964ffadce94d6aaa4a699c811/Theater_Outcomes_vs_Launch.PNG)
 
 ### Analysis of Outcomes Based on Goals
+Based on the data graphed below, campaigns are most likely to be successful with fundraising goals that are less than $1,000 and from $35,000 - $45,000.  
+
+![This is an image](https://github.com/jtspingler/kickstarter-analysis/blob/fcc51790df39cce4094960b9b543f38c07775fd2/Outcomes%20based%20on%20Goals.PNG)
 
 ### Challenges and Difficulties Encountered
 
