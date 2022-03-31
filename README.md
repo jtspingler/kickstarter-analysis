@@ -10,6 +10,9 @@ This data was relatively clean at first. In order to identify date trends, we co
 ![This is an image](https://github.com/jtspingler/kickstarter-analysis/blob/108a4ed89d8059ea826e4c2181063fdd872d9478/Date%20conversion.PNG)
 
 I struggled with grouping the Months as their names rather than the numberical representation. 
+
+![This is an image] (https://github.com/jtspingler/kickstarter-analysis/blob/fca25a1668a607d4303c86bdac57b897b34c38a4/succ%20v%20failed%20pivot.PNG)
+
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
