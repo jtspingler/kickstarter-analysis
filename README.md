@@ -5,7 +5,7 @@ Using pivot tables and graphs Excel to visualize campaign outcomes ("successful,
 ### Purpose
 The purpose of this analysis was to identify trends of multiple campaigns based on factors such as funding goals and launch dates. 
 ## Analysis and Challenges
-This data was relatively clean at first. In order to identify date trends, we converted the timestamps to dates as well as then extracting the year and month from this date.
+This data was relatively clean at first. In order to identify date trends, we converted the timestamps to dates as well as then extracting the year and month from this date. The findings of my analysis can be found [here](https://github.com/jtspingler/kickstarter-analysis) , as well as presented below:
 
 ![This is an image](https://github.com/jtspingler/kickstarter-analysis/blob/108a4ed89d8059ea826e4c2181063fdd872d9478/Date%20conversion.PNG)
 
