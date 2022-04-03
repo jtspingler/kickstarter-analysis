@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Using pivot tables and graphs Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date from the Kickstarter data set provided.
+Using pivot tables and graphs Excel to visualize campaign outcomes ("successful", "failed", and "cancelled") based on launch date from the Kickstarter data set provided.
 ### Purpose
 The purpose of this analysis was to identify trends of multiple campaigns based on factors such as funding goals and launch dates. 
 ## Analysis and Challenges
